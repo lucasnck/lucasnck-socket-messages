@@ -1,0 +1,26 @@
+{
+  "name": "lucasnck-messages",
+  "version": "1.0.0",
+  "description": "Messages service with socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasnck/lucasnck-socket-messages.git"
+  },
+  "keywords": [
+    "Socket.io",
+    "lucasnck.com",
+    "typescript",
+    "nodejs",
+    "express"
+  ],
+  "author": "@lucasnck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasnck/lucasnck-socket-messages/issues"
+  },
+  "homepage": "https://github.com/lucasnck/lucasnck-socket-messages#readme"
+}
